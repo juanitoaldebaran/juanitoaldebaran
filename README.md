@@ -2,7 +2,7 @@
 Hi There 👋🏽, My name is Juanito Aldebaran Siahaan
 
 # 💫 About Me:
-I'm a Final Year Computer Science Student at Queen's University Belfast and highly passionate with building software, cloud technologies, and artificial intelligence
+I like to play football and gym 
 
 
 ## 🌐 Socials:
