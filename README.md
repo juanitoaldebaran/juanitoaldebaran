@@ -1,11 +1,11 @@
 # juanitoaldebaran
 Hi There 👋🏽, My name is Juanito Aldebaran Siahaan
 
-# 💫 About Me:
+# About Me:
 I like to play football and gym 
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juanitoaldebaransiahaan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanitosiahaan1711@gmail.com) 
 
 # 💻 Tech Stack:
