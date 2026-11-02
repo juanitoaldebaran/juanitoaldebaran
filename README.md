@@ -1,17 +1,78 @@
-# juanitoaldebaran
-Hi There 👋🏽, My name is Juanito Aldebaran Siahaan
+<div align="center">
 
-# About Me:
-I like to play football and gym 
+# `> Juanito Aldebaran Siahaan_`
 
+**Backend Software Engineer**
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juanitoaldebaransiahaan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanitosiahaan1711@gmail.com) 
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=juanitoaldebaran&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+```text
+juanito
+```
+
+## `$ cat about.go`
+
+```go
+package main
+
+import "fmt"
+
+type Engineer struct {
+	Name      string
+	Location  string
+	Origin    string
+	Education string
+	Hobbies   []string
+}
+
+func main() {
+	juanito := Engineer{
+		Name:      "Juanito Aldebaran Siahaan",
+		Location:  "Belfast",
+		Origin:    "Indonesia",
+		Education: "BSc Computer Science (Year in Industry), QUB, First Class Honours",
+		Hobbies:   []string{"football", "gym"},
+	}
+
+	fmt.Printf("%+v\n", juanito)
+}
+```
+
+## `$ cat dependencies.txt`
+
+**Languages**
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Cloud and Infrastructure**
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+## `$ git log --oneline`
+
+```text
+a1f3c9e (HEAD -> main) Backend Engineer at Upwind Security
+7d20b4a Year in Industry at Verint Systems: Go, Kafka, Docker, CI/CD
+3e9c81f Graduated BSc Computer Science, First Class Honours, QUB
+b52d7e0 Moved from Indonesia to Belfast
+0000001 Hello, World!
+```
+
+## `$ ./contact.sh`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanitoaldebaransiahaan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanitosiahaan1711@gmail.com)
+
+```text
+Process finished with exit code 0
+```
