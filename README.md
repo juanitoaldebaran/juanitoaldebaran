@@ -32,7 +32,7 @@ type Engineer struct {
 func main() {
 	juanito := Engineer{
 		Name:      "Juanito Aldebaran Siahaan",
-		Location:  "Belfast",
+		Location:  "United Kingdom",
 		Origin:    "Indonesia",
 		Education: "BSc Computer Science (Year in Industry), QUB, First Class Honours",
 		Hobbies:   []string{"football", "gym"},
@@ -42,7 +42,7 @@ func main() {
 }
 ```
 
-## `$ cat dependencies.txt`
+## `$ cat tech_stack.txt`
 
 **Languages**
 
@@ -64,7 +64,7 @@ func main() {
 a1f3c9e (HEAD -> main) Backend Engineer at Upwind Security
 7d20b4a Year in Industry at Verint Systems: Go, Kafka, Docker, CI/CD
 3e9c81f Graduated BSc Computer Science, First Class Honours, QUB
-b52d7e0 Moved from Indonesia to Belfast
+b52d7e0 Moved from Indonesia to UK
 0000001 Hello, World!
 ```
 
